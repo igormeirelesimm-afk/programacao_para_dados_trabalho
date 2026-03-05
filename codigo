@@ -1,0 +1,5 @@
+
+dados=open("steam_games.csv")
+
+for line in dados:
+  print(line)
